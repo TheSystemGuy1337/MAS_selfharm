@@ -26,14 +26,14 @@ techniques, milestones, checkups and new dialogue and spritepacks</h3>
 <h4 align="center">💜 IN MEMORY OF T. H. 💜</h4>
 
 
-## ⚠️ Important notice (please read!)
+## LEGAL DISCLAIMER (READ BEFORE USING!!!)
 
 This submod is designed to help people that harm themselves in some way
 as well as to raise awareness and provide some insights for people who are
 willing to learn more about this phenomenon in particular.
 
 **However**, original authors, contributors and repository maintainers
-do not condone self-harm, suicide or any other (self-)destructive behavior
+**DO NOT** condone self-harm, suicide or any other (self-)destructive behavior
 **nor provide the ideal professional psychological help**.
 
 If you're currently experiencing a need in psychological/psychiatric help,
@@ -44,7 +44,6 @@ is to bring awareness about self-harm or verbally support people
 going through hard times.
 
 Click [here](https://github.com/my-otter-self/MAS_selfharm/wiki/%F0%9F%91%90-Suicide-Hotlines) to see all the International Suicide Hotlines at the wiki.
-
 
 ## 🌟 Features
 
