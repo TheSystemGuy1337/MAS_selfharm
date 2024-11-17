@@ -25,6 +25,9 @@ techniques, milestones, checkups and new dialogue and spritepacks</h3>
 
 <h4 align="center">💜 IN MEMORY OF T. H. 💜</h4>
 
+# Important - Read me first
+I have moved on from the Monika After Story community and have no intrest in maintaining this repo. This repo will therefore be archived. Any links should be considered as obsolete. Also, Monika After Story updates will have broken this mod by now, so it's legally considered as obsolete.
+
 
 ## ⚠️ Important notice (please read!)
 
